@@ -4,6 +4,15 @@
 
 I help organizations design secure, scalable, and AI-powered digital workplaces through Microsoft technologies.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Security-2E7D32?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Security" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Platform" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ---
 
 ## 🚀 Current Focus
@@ -122,6 +131,15 @@ https://eric841001.github.io
 A practical Microsoft consulting platform for Microsoft 365, Azure, Security, Copilot, AI Agents, migration, governance, proposal assets, and delivery playbooks.
 
 🔗 https://eric841001.github.io
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eric841001&show_icons=true&theme=default&hide_border=true" alt="Youngsun Kang GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric841001&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
